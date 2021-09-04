@@ -4,7 +4,7 @@
       "id":1,
       "description": "wecanite land",
       "image": "https://github.com/asimro/NFTdata/blob/main/imgs/1.png",
-            "external_url": "https://my-json-server.typicode.com/asimro/NFTdata/tokens/1",
+            "external_url":"https://my-json-server.typicode.com/asimro/NFTdata/tokens/1",
       "name": "wecanite",
           "stage": "1st",
           "rairity": "common"
@@ -13,7 +13,7 @@
       "id":2,
       "description": "enefterium land",
       "image": "https://github.com/asimro/NFTdata/blob/main/imgs/2.png",
-            "external_url": "https://my-json-server.typicode.com/asimro/NFTdata/tokens/2",
+            "external_url":"https://my-json-server.typicode.com/asimro/NFTdata/tokens/2",
       "name": "enefterium",
           "stage": "1st",
           "rairity": "rare"
@@ -22,7 +22,7 @@
       "id":3,
       "description": "waxon land",
       "image": "https://github.com/asimro/NFTdata/blob/main/imgs/3.png",
-            "external_url": "https://my-json-server.typicode.com/asimro/NFTdata/tokens/3",
+            "external_url":"https://my-json-server.typicode.com/asimro/NFTdata/tokens/3",
       "name": "waxon",
           "stage": "1st",
           "rairity": "unique"
