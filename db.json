@@ -1,1 +1,31 @@
-
+{
+  "tokens": [
+    { 
+      "id":1,
+      "description": "wecanite land",
+      "image": "https://github.com/asimro/NFTdata/edit/main/1.png",
+            "external_url": "https://static.rplanet.io/nft/lands2/wecanite_common.png",
+      "name": "wecanite",
+          "stage": "1st",
+          "rairity": "common"
+    },
+    { 
+      "id":2,
+      "description": "enefterium land",
+      "image": "https://github.com/asimro/NFTdata/edit/main/2.png",
+            "external_url": "https://static.rplanet.io/nft/lands2/enefterium_rare.png",
+      "name": "enefterium",
+          "stage": "1st",
+          "rairity": "rare"
+    },
+    { 
+      "id":3,
+      "description": "waxon land",
+      "image": "https://github.com/asimro/NFTdata/edit/main/3.png",
+            "external_url": "https://static.rplanet.io/nft/lands2/waxon_common.png",
+      "name": "waxon",
+          "stage": "1st",
+          "rairity": "unique"
+    },
+  ]  
+}
